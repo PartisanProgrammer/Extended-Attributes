@@ -1,8 +1,8 @@
 {
   "name": "com.partisanprogrammer.extended-attributes",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "displayName": "Extended-Attributes",
-  "description": "The ButtonAttributeEditor is a part of a Unity plugin that enhances the Unity inspector by allowing methods marked with a custom ButtonAttribute to be invoked directly from the inspector. It provides a user-friendly interface with a toggle button to show or hide the list of methods, and each method is represented by a button. The editor also includes custom styling and formatting for better visual representation. The plugin is designed to improve workflow efficiency and user experience within the Unity editor.",
+  "description": "This package provides two attributes:\n\n- [Button] which when placed over a method, creates a nice looking button in the inspector that calls the method.\n- [Optional] which when placed next to a field, displays a (Optional) text next to the field in the inspector",
   "unity": "2022.3",
   "unityRelease": "23f1",
   "documentationUrl": "https://example.com/",
