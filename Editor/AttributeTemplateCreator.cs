@@ -4,7 +4,7 @@ using UnityEditor;
 
 public static class AttributeTemplateCreator
 {
-    static string TEMPLATE_BASE_PATH =  @"Packages/com.partisanprogrammer.base-templates/Editor/Templates/";
+    static string TEMPLATE_BASE_PATH =  @"Packages/com.partisanprogrammer.extended-attributes/Editor/Templates/";
     const string ASSET_PATH = "Assets/Create/Templates/Attributes/";
     
     [MenuItem(ASSET_PATH + "Attribute", priority = 30)]
