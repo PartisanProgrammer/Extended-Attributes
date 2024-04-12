@@ -1,4 +1,18 @@
 {
-  "name": "partisanprogrammer.extended-attributes.editor",
-  "references":[ "GUID:6b075829842e6e746b5ab76662a8f909" ]
+    "name": "partisanprogrammer.extended-attributes.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6b075829842e6e746b5ab76662a8f909"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

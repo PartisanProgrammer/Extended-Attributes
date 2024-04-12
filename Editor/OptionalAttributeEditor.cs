@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using Attributes;
 using UnityEditor;
 using UnityEngine;
@@ -31,3 +32,4 @@ public class OptionalAttributeEditor : PropertyDrawer
        
     }
 }
+#endif
